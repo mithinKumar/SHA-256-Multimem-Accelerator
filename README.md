@@ -28,10 +28,10 @@ This project implements a high-performance SHA-256 accelerator using a pipelined
 ## Results
 
 ### Image 1: Timing Diagram
-![Model-sim output](path/to/timing_diagram.png)
+![Model-sim output](quartus-files/result.png)
 
 ### Image 2: Resource Utilization
-![Correct hash value](path/to/resource_utilization.png)
+![Correct hash value](quartus-files/correct-output.png)
 
 ## References
 
