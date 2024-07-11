@@ -39,10 +39,4 @@ This project implements a high-performance SHA-256 accelerator using a pipelined
 
 
 
-## Acknowledgements
 
-Special thanks to the authors of the IEEE paper for their insightful research and contributions to the field.
-
----
-
-Replace the placeholder paths for the images with the actual paths to your images. This README provides a comprehensive overview of your project along with visual results.
